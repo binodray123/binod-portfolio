@@ -117,7 +117,7 @@ export function Footer() {
         <div className="pt-8 border-t border-white/5 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs font-mono text-[#9A9DA5]">
           <p>© 2026 Binod Ray. All rights reserved.</p>
           <p className="flex items-center gap-2">
-            <span>Engineered with Next.js, Three.js &amp; Tailwind</span>
+            {/* <span>Engineered with Next.js, Three.js &amp; Tailwind</span> */}
             <span className="w-1.5 h-1.5 rounded-full bg-[#B8FF3D]" />
             <span>Kathmandu, Nepal</span>
           </p>
